@@ -1,2 +1,2 @@
 # cv
-Сайт https://p-sergei-qa.github.io/ визитка на HTML и CSS
+Сайт визитка на HTML и CSS
